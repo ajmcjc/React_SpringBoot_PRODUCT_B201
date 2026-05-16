@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "pname": "Laptop",
+      "price": 40000,
+      "color": "Grey",
+      "brand": "Asus",
+      "id": "5971"
+    },
+    {
+      "pname": "TV",
+      "price": "5000",
+      "color": "Silver",
+      "brand": "Samsung",
+      "category": [
+        "electronics",
+        "home"
+      ],
+      "seller": "amazon",
+      "id": "0242"
+    },
+    {
+      "pname": "Camera",
+      "price": "23000",
+      "color": "Silver",
+      "brand": "Samsung",
+      "category": [
+        "electronics",
+        "gadget"
+      ],
+      "seller": "flipkart",
+      "id": "2cd1"
+    }
+  ]
+}
